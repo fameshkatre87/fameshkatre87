@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MCA Student | Python & Django Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Django+%2B+Vue.js+Developer;Building+SaaS+Products;IBM+Certified+Cloud+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Django+%2B+Python+Developer;Building+SaaS+Products;IBM+Certified+Cloud+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -96,19 +96,4 @@
 <p align="center">⭐ <strong>Star my repos if you find them useful!</strong> ⭐</p>
 ```
 
-**Commit changes** click karo.
 
----
-
-### 2. Bio Update karo
-
-Profile pe **Edit profile** click karo aur yeh update karo:
-
-**Bio:**
-```
-Full Stack Developer | Django + Vue.js | Building SaaS Products | MCA Student | IBM Cloud & watsonx.ai
-```
-
-**Location:**
-```
-India
